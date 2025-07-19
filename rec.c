@@ -2,7 +2,8 @@ my is punyashree
 amity university
 bengaluru
 cse
-ailm
+aiml
 ece
+iot
 
 
